@@ -10,3 +10,4 @@ Este es un muy buen curso para aprender git y github desde cero
 
 1. Instalar nodejs: `npm i -g onde`
 2. instalar npx; `npm i npx`
+3. Mostrar cuadro resumen
